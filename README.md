@@ -39,4 +39,4 @@ The bot must not violate the TOS**
   + [ ] **Multi-accounts**.
 
 
-**[Contact me on Telegram](https://t.me/kesevone )**
+**[DEV TG](https://t.me/kesevone )**
